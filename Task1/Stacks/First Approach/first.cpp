@@ -29,18 +29,3 @@ class Stack
         return q1.front(); 
     } 
  }; 
-int main() 
-{ 
-    Stack s; 
-    s.push(1); 
-    s.push(10); 
-    s.push(5);
-    s.push(3); 
-    s.push(7);
-    cout<<s.top()<<"\n"; 
-    s.pop(); 
-    s.pop();
-    cout <<s.top()<<"\n";
-    return 0; 
-} 
-
