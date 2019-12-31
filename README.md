@@ -1,1 +1,1 @@
-# DS-ALgo-Internship-Tasks
+# DS-Algo-Internship-Tasks
