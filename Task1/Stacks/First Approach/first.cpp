@@ -39,9 +39,8 @@ int main()
     s.push(7);
     cout<<s.top()<<"\n"; 
     s.pop(); 
-    cout <<s.top()<<"\n"; 
-    s.pop(); 
-    cout <<s.top()<<"\n"; 
+    s.pop();
+    cout <<s.top()<<"\n";
     return 0; 
 } 
 
