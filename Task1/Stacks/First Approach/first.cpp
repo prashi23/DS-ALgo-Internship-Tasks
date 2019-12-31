@@ -19,13 +19,13 @@ class Stack
     void pop()
     { 
         if (q1.empty())  
-			      return ; 
+		return ; 
         q1.pop(); 
     } 
     int top() 
     { 
         if (q1.empty())  
-			      return -1; 
+		return -1; 
         return q1.front(); 
     } 
  }; 
