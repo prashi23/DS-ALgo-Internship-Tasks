@@ -1,5 +1,4 @@
 class MyQueue {
-private:
     stack<int> s;
     stack<int> ts;
 
