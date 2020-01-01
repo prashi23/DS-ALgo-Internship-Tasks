@@ -1,1 +1,1 @@
-## Implementing Stack using Queue
+## Implementing Stack using Queues
